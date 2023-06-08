@@ -4,7 +4,7 @@
 - [專案目錄](##專案目錄)
 - [環境設置](##環境設置)
 - [Loki啟用說明](##Loki啟用說明)
-- [Discord Bot建置](##[https://github.com/Chilinhung/LokiHub/edit/main/rockClimbingBot/README.md]DiscordBot建置)
+- [Discord Bot建置](##DiscordBot建置)
 - [使用者互動說明](##使用者互動說明)
 - [參考資料](##參考資料)
 - [作者](##作者)
